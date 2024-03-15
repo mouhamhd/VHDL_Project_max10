@@ -1,0 +1,106 @@
+Restore Archived Project report for DE10_Lite
+Wed Mar 13 16:02:55 2024
+Quartus Prime Version 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2021  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Wed Mar 13 16:02:55 2024 ;
+; Revision Name                   ; DE10_Lite                             ;
+; Top-level Entity Name           ; DE10_Lite                             ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/SNUM2/Projet VHDL/DE10_Lite(1).qar' into the 'C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/' directory
+Info: Generated report 'DE10_Lite.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/21.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4873 megabytes
+    Info: Processing ended: Wed Mar 13 16:02:55 2024
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++------------------------------------------------------------------------+
+; Files Restored                                                         ;
++------------------------------------------------------------------------+
+; File Name                                                              ;
++------------------------------------------------------------------------+
+; qar_info.json                                                          ;
+; DAC.vhd                                                                ;
+; DE10_Lite.SDC                                                          ;
+; DE10_Lite.qpf                                                          ;
+; DE10_Lite.qsf                                                          ;
+; DE10_Lite.vhd                                                          ;
+; DE10_Lite_assignment_defaults.qdf                                      ;
+; adc.stp                                                                ;
+; adc_qsys.qsys                                                          ;
+; adc_qsys.sopcinfo                                                      ;
+; adc_qsys/adc_qsys.cmp                                                  ;
+; adc_qsys/synthesis/adc_qsys.debuginfo                                  ;
+; adc_qsys/synthesis/adc_qsys.qip                                        ;
+; adc_qsys/synthesis/adc_qsys.v                                          ;
+; adc_qsys/synthesis/submodules/adc_qsys_altpll_sys.v                    ;
+; adc_qsys/synthesis/submodules/adc_qsys_modular_adc_0.v                 ;
+; adc_qsys/synthesis/submodules/altera_modular_adc_control.sdc           ;
+; adc_qsys/synthesis/submodules/altera_modular_adc_control.v             ;
+; adc_qsys/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v   ;
+; adc_qsys/synthesis/submodules/altera_modular_adc_control_fsm.v         ;
+; adc_qsys/synthesis/submodules/altera_reset_controller.sdc              ;
+; adc_qsys/synthesis/submodules/altera_reset_controller.v                ;
+; adc_qsys/synthesis/submodules/altera_reset_synchronizer.v              ;
+; adc_qsys/synthesis/submodules/chsel_code_converter_sw_to_hw.v          ;
+; adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v ;
+; adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v       ;
+; affichage.vhd                                                          ;
+; dec7seg.vhd                                                            ;
+; freqsortie.vhd                                                         ;
+; numerique.vhd                                                          ;
+; pack_son.vhd                                                           ;
+; test_benchV0_1.vhd                                                     ;
++------------------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

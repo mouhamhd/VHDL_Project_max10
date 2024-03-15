@@ -1,0 +1,42 @@
+Quartus Prime Archive log --	C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite_Version0.qarlog
+
+Archive:	C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite_Version0.qar
+Date:		Wed Mar 13 17:21:33 2024
+Quartus Prime		21.1.0 Build 842 10/21/2021 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DAC.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite.SDC
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite.qpf
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite.qsf
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/DE10_Lite_assignment_defaults.qdf
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc.stp
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys.qsys
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys.sopcinfo
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/adc_qsys.cmp
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/adc_qsys.debuginfo
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/adc_qsys.qip
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/adc_qsys.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/adc_qsys_altpll_sys.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/adc_qsys_modular_adc_0.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_modular_adc_control.sdc
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_modular_adc_control.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_modular_adc_control_fsm.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_reset_controller.sdc
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_reset_controller.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/altera_reset_synchronizer.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/chsel_code_converter_sw_to_hw.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/adc_qsys/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/affichage.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/dec7seg.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/freqsortie.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/numerique.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/pack_son.vhd
+C:/SNUM2/Projet VHDL/DE10_Lite(1)_restored/test_benchV0_1.vhd
+	======= Total: 31 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
